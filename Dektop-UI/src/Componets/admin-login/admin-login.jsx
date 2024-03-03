@@ -83,7 +83,7 @@ function Admin_login({hid, id, Hname, updateData}) {
             <div className='form'>
             <form action='' method='POST' onSubmit={submitThis}>
             <div className="title">
-                EHS Admin Login
+                Sehat Admin Login
             </div>
             <div className='inp-fields'>
                 <input type="text" name="hospital_id" 

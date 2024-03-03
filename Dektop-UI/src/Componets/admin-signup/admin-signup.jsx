@@ -69,7 +69,7 @@ function Admin_signup({hid,email, mob_no, updateFormField}) {
         <div>
         
             <div className="title">
-                EHS Admin SignUp
+                Sehat Admin SignUp
             </div>
             
             <div className='inp-fields'>

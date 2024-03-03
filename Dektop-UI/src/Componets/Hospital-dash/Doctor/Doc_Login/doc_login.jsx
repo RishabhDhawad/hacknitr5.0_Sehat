@@ -48,7 +48,7 @@ function Doc_signin() {
         <div className={s.form}>
             <form action='' method='POST' onSubmit={submitThis}>
                 <div className="title">
-                    EHS Doctor Login
+                    Sehat Doctor Login
                 </div>
                 <div className={s.inp_fields}>
                     <input type="text" name="doctor_id" 

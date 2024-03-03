@@ -32,7 +32,7 @@ function Sidebar(){
             <div className={s.sidee}>
                 <div className={s.logo_name}>
                     <i onClick={home} > <FontAwesomeIcon icon={["fa", "hospital",]} size={'3x'}  style={{color: "#E55771",}}/></i>
-                    <div className={s.titlee}><span onClick={home} >EHS</span> </div>
+                    <div className={s.titlee}><span onClick={home} >Sehat</span> </div>
                 </div>
                 <div className={s.side_mainn}>
                     <div className={s.chhotu}>

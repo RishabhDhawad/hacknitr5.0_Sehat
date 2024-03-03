@@ -109,7 +109,7 @@ return(
             <div className={s.side}>
                 <div className={s.logo_name}>
                     <i> <FontAwesomeIcon icon={["fa", "hospital",]} size={'3x'}  style={{color: "#E55771",}}/></i>
-                    <div onClick={home} className={s.title}>EHS </div>
+                    <div onClick={home} className={s.title}>Sehat </div>
                 </div>
                 <div className={s.side_main}>
                     <div className={s.chhotu}>
